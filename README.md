@@ -5,12 +5,12 @@ This repository contains resources for the [1.6 Control structures](https://conc
 Students should download, complete, and organise these tasks in their own working repositories using the IDE of their choice (e.g. PyCharm, JupyterLab, WebStorm, Visual Studio, etc.)
 
 ## Structure
-operations-manual/   # Authoritative guide to using sequence, selection, and repetition
-training/            # Jupyter-based microlabs to practise control structures and pseudocode
-simulation/          # A macrolab to apply selection and iteration in a realistic problem
-clearance/           # Assessment-style exercises to test control flow understanding
-mission/             # A programming challenge requiring combinations of control structures
-debrief/             # Structured reflection on logic, problem-solving, and debugging
+operations-manual/   # Authoritative guide to using sequence, selection, and repetition<br>
+training/            # Jupyter-based microlabs to practise control structures and pseudocode<br>
+simulation/          # A macrolab to apply selection and iteration in a realistic problem<br>
+clearance/           # Assessment-style exercises to test control flow understanding<br>
+mission/             # A programming challenge requiring combinations of control structures<br>
+debrief/             # Structured reflection on logic, problem-solving, and debugging<br>
 
 ## Instructions
 
